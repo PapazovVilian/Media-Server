@@ -4,7 +4,7 @@
 
 I’m using my old PC for this server. It is still in use as a Windows 10 machine, so the OS would have to remain this way.
 
-For that reason I installed VMware Workstation and installed a Proxmox server running as a VM. I can access it through the web browser using this address: http://192.168.2.127:8006/.
+For that reason I installed VMware Workstation and inside it a Proxmox server running as a VM. I can access it through the web browser using this address: http://192.168.2.127:8006/.
 
 **Proxmox Information**:  
 Proxmox is a virtualization platform that allows you to manage virtual machines and containers in one place.
