@@ -32,6 +32,7 @@ There, I created a new container for Jellyfin with all the necessary settings fo
 
 Finally, I transferred the pictures/videos over to **/var/lib/docker/volumes/portainer_data/_data** and viewed them on the server at http://192.168.2.128:8096/.
 
-![Result on mobile phone](./Image 2025-04-09%20at%2017.46.07.jpeg)
+![Result on mobile phone](https://github.com/PapazovVilian/Media-Server/raw/main/Image%202025-04-09%20at%2017.46.07.jpeg)
+
 
 
