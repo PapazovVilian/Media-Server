@@ -35,5 +35,8 @@ Finally, I transferred the pictures/videos over to **/var/lib/docker/volumes/por
 <img src="https://github.com/PapazovVilian/Media-Server/raw/main/Image%202025-04-09%20at%2017.46.07.jpeg" alt="Result on mobile phone" width="300"/>
 
 
+Next step would be to make it remotely accessible, but for that I would need to edit the settings on my router and then maybe work with DuckDNS to setup dynamic forwarding to Jellyfin.
+
+
 
 
