@@ -38,5 +38,8 @@ Finally, I transferred the pictures/videos over to **/var/lib/docker/volumes/por
 Next step would be to make it remotely accessible, but for that I would need to edit the settings on my router and then maybe work with DuckDNS to setup dynamic forwarding to Jellyfin.
 
 
+Raspberry5Pi Project notes: root _90 vili 4 192.168.2.117
+
+
 
 
